@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Modify three(feature_1/test_3)
+=======
+Modify one
+Modify two(in github)
+Modify three(feature_1/test_1)
+Modify three(feature_1/test_1_1)
+>>>>>>> feature_1/test_1_1
